@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @iulialm
 - 👀 I’m interested in full colaboration
-- 🌱 I’m currently learning QA Manual and Automation Testing
+- 🌱 Certificated QA software Tester & Automation Testing
 - 📫 How to reach me: https://www.linkedin.com/in/iulia-elena-al-mutairi/
